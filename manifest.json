@@ -2,7 +2,7 @@
   "name": "Number Drop",
   "short_name": "NumberDrop",
   "description": "Clique sur les nombres qui tombent !",
-  "start_url": "/Number-Drop-Project/",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0096c7",
