@@ -2,19 +2,19 @@
   "name": "Number Drop",
   "short_name": "NumberDrop",
   "description": "Clique sur les nombres qui tombent !",
-  "start_url": "/",
+  "start_url": "/Number-Drop-Project/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0096c7",
   "theme_color": "#0096c7",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "/Number-Drop-Project/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "/Number-Drop-Project/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
